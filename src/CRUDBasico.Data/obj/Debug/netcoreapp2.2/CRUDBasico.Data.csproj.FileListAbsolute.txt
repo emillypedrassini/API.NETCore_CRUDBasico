@@ -1,0 +1,12 @@
+D:\Estudo\Core\CRUDBasico\src\CRUDBasico.Data\bin\Debug\netcoreapp2.2\CRUDBasico.Data.deps.json
+D:\Estudo\Core\CRUDBasico\src\CRUDBasico.Data\bin\Debug\netcoreapp2.2\CRUDBasico.Data.dll
+D:\Estudo\Core\CRUDBasico\src\CRUDBasico.Data\bin\Debug\netcoreapp2.2\CRUDBasico.Data.pdb
+D:\Estudo\Core\CRUDBasico\src\CRUDBasico.Data\bin\Debug\netcoreapp2.2\CRUDBasico.Domain.dll
+D:\Estudo\Core\CRUDBasico\src\CRUDBasico.Data\bin\Debug\netcoreapp2.2\CRUDBasico.Domain.pdb
+D:\Estudo\Core\CRUDBasico\src\CRUDBasico.Data\obj\Debug\netcoreapp2.2\CRUDBasico.Data.csprojAssemblyReference.cache
+D:\Estudo\Core\CRUDBasico\src\CRUDBasico.Data\obj\Debug\netcoreapp2.2\CRUDBasico.Data.csproj.CoreCompileInputs.cache
+D:\Estudo\Core\CRUDBasico\src\CRUDBasico.Data\obj\Debug\netcoreapp2.2\CRUDBasico.Data.AssemblyInfoInputs.cache
+D:\Estudo\Core\CRUDBasico\src\CRUDBasico.Data\obj\Debug\netcoreapp2.2\CRUDBasico.Data.AssemblyInfo.cs
+D:\Estudo\Core\CRUDBasico\src\CRUDBasico.Data\obj\Debug\netcoreapp2.2\CRUDBasico.Data.csproj.CopyComplete
+D:\Estudo\Core\CRUDBasico\src\CRUDBasico.Data\obj\Debug\netcoreapp2.2\CRUDBasico.Data.dll
+D:\Estudo\Core\CRUDBasico\src\CRUDBasico.Data\obj\Debug\netcoreapp2.2\CRUDBasico.Data.pdb
